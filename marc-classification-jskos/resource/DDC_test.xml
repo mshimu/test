@@ -1,0 +1,1116 @@
+<?xml version="1.0"?>
+<mx:collection xmlns:mx="http://www.loc.gov/MARC21/slim">
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">c90f800b-8c11-3e4a-aab3-2d67a0134dcd</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20120301152017.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00252655</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">0</mx:subfield>
+    <mx:subfield code="j">Informatik, Informationswissenschaft &amp; allgemeine Werke</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="194" ind2=" " ind1=" ">
+    <mx:subfield code="h">Informatik, Informationswissenschaft &amp; allgemeine Werke</mx:subfield>
+    <mx:subfield code="9">ess=hdr</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">2eef22dd-87d3-383c-a2cd-1fa3df4053dd</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20120301152203.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00252656</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">00</mx:subfield>
+    <mx:subfield code="e">0</mx:subfield>
+    <mx:subfield code="j">Informatik, Wissen &amp; Systeme</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="194" ind2=" " ind1=" ">
+    <mx:subfield code="h">Informatik, Informationswissenschaft &amp; allgemeine Werke</mx:subfield>
+    <mx:subfield code="9">ess=hdr</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">e9c4396b-29c1-32f2-b6f4-f480f327853e</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20120301151930.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116588</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">000</mx:subfield>
+    <mx:subfield code="e">00</mx:subfield>
+    <mx:subfield code="j">Informatik, Informationswissenschaft, allgemeine Werke</mx:subfield>
+    <mx:subfield code="9">ess=en</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="194" ind2=" " ind1=" ">
+    <mx:subfield code="h">Informatik, Informationswissenschaft, allgemeine Werke</mx:subfield>
+    <mx:subfield code="9">ess=hdr</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">e957a697-9369-3496-85af-bd067229b32d</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20110728111208.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaabaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116591</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001</mx:subfield>
+    <mx:subfield code="e">00</mx:subfield>
+    <mx:subfield code="j">Wissen</mx:subfield>
+    <mx:subfield code="9">ess=en</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="680" ind2=" " ind1="1">
+    <mx:subfield code="i">Darstellung und kritische Bewertung intellektueller, geistiger Aktivität im Allgemeinen</mx:subfield>
+    <mx:subfield code="9">ess=nsc</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="680" ind2=" " ind1="0">
+    <mx:subfield code="i">Einschließlich:</mx:subfield>
+    <mx:subfield code="t">fächerübergreifende Werke über Berater</mx:subfield>
+    <mx:subfield code="9">ess=nin</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="680" ind2=" " ind1="1">
+    <mx:subfield code="i">Hier auch:</mx:subfield>
+    <mx:subfield code="t">Diskussion von Ideen aus vielen Gebieten, fächerübergreifender Ansatz zum Wissensbegriff</mx:subfield>
+    <mx:subfield code="9">ess=nch</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="2">
+    <mx:subfield code="i">Klassifiziere</mx:subfield>
+    <mx:subfield code="t">Epistemologie</mx:subfield>
+    <mx:subfield code="i">in</mx:subfield>
+    <mx:subfield code="a">121</mx:subfield>
+    <mx:subfield code="9">ess=nce</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="2">
+    <mx:subfield code="i">Klassifiziere</mx:subfield>
+    <mx:subfield code="t">eine Zusammenstellung von Wissen in einer bestimmten Form</mx:subfield>
+    <mx:subfield code="i">bei der Form, z.B.</mx:subfield>
+    <mx:subfield code="t">Enzyklopädien</mx:subfield>
+    <mx:subfield code="e">030</mx:subfield>
+    <mx:subfield code="9">ess=ncw</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="0">
+    <mx:subfield code="i">Für</mx:subfield>
+    <mx:subfield code="t">Berater oder für den Einsatz von Beratern in einem bestimmten Thema</mx:subfield>
+    <mx:subfield code="i">siehe das Thema, z.B.</mx:subfield>
+    <mx:subfield code="t">Bibliotheksberater</mx:subfield>
+    <mx:subfield code="e">023.2</mx:subfield>
+    <mx:subfield code="i">, technische Berater</mx:subfield>
+    <mx:subfield code="e">620</mx:subfield>
+    <mx:subfield code="i">, Einsatz von Beratern im Management</mx:subfield>
+    <mx:subfield code="e">658.46</mx:subfield>
+    <mx:subfield code="9">ess=nsw</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="684" ind2=" " ind1="2">
+    <mx:subfield code="i">Siehe Praxishilfe bei</mx:subfield>
+    <mx:subfield code="a">500</mx:subfield>
+    <mx:subfield code="i">vs.</mx:subfield>
+    <mx:subfield code="a">001</mx:subfield>
+    <mx:subfield code="9">ess=nsm</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Berater</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Gutachter</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Experten</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Fächerübergreifender Ansatz zum Wissensbegriff</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Wissen</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Wissensbegriff</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Wissenschaften (Wissensbegriff)</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">175d03be-9274-3efd-8d13-6a62ffbc84f2</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20050216131317.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116628</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.01</mx:subfield>
+    <mx:subfield code="e">001</mx:subfield>
+    <mx:subfield code="j">Wissenstheorie</mx:subfield>
+    <mx:subfield code="9">ess=en</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="1">
+    <mx:subfield code="i">Nicht verwenden für</mx:subfield>
+    <mx:subfield code="t">Erkenntnistheorie, philosophische Werke über Wissenstheorie</mx:subfield>
+    <mx:subfield code="i">; klassifiziere in</mx:subfield>
+    <mx:subfield code="a">121</mx:subfield>
+    <mx:subfield code="9">ess=nsx</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">7f3e0975-fcd7-3d42-ae5c-1435c1276a62</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20140113155724.1</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaabb</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116629</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.012</mx:subfield>
+    <mx:subfield code="e">001.01</mx:subfield>
+    <mx:subfield code="j">Klassifikation, . . .</mx:subfield>
+    <mx:subfield code="9">ess=ien</mx:subfield>
+    <mx:subfield code="9">ess=peh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="765" ind2=" " ind1="0">
+    <mx:subfield code="b">001</mx:subfield>
+    <mx:subfield code="z">1</mx:subfield>
+    <mx:subfield code="s">012</mx:subfield>
+    <mx:subfield code="u">001.012</mx:subfield>
+    <mx:subfield code="9">ess=hn</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="673" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.01/2</mx:subfield>
+    <mx:subfield code="9">ess=seg</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Klassifikation</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)b55a12da-55e4-4b80-a7c0-55688ea63fac</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Klassifikation</mx:subfield>
+    <mx:subfield code="x">Wissen</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)3dc6d77d-4e93-4b6d-ba06-f728199fe93f</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>  <mx:leader>00000nw  a2200000n  4500</mx:leader>  <mx:controlfield tag="001">b09a57a5-6f68-32b6-97de-57ce191d5e39</mx:controlfield>  <mx:controlfield tag="003">DE-101</mx:controlfield>  <mx:controlfield tag="005">20051102111003.0</mx:controlfield>  <mx:controlfield tag="008">000202aaaaaabb</mx:controlfield>  <mx:datafield tag="035" ind2=" " ind1=" ">    <mx:subfield code="a">ocd00116630</mx:subfield>  </mx:datafield>  <mx:datafield tag="040" ind2=" " ind1=" ">    <mx:subfield code="a">OCoLC-D</mx:subfield>    <mx:subfield code="b">ger</mx:subfield>    <mx:subfield code="c">DE-101</mx:subfield>    <mx:subfield code="d">DE-101</mx:subfield>  </mx:datafield>  <mx:datafield tag="084" ind2=" " ind1="0">    <mx:subfield code="a">ddc</mx:subfield>    <mx:subfield code="c">23de</mx:subfield>    <mx:subfield code="e">ger</mx:subfield>  </mx:datafield>  <mx:datafield tag="153" ind2=" " ind1=" ">    <mx:subfield code="a">001.0601</mx:subfield>    <mx:subfield code="e">001</mx:subfield>    <mx:subfield code="j">UNESCO, . . .</mx:subfield>    <mx:subfield code="9">ess=ien</mx:subfield>    <mx:subfield code="9">ess=peh</mx:subfield>  </mx:datafield><mx:datafield tag="765" ind2=" " ind1="0">      <mx:subfield code="b">001</mx:subfield>      <mx:subfield code="z">1</mx:subfield>      <mx:subfield code="s">0601</mx:subfield>      <mx:subfield code="u">001.0601</mx:subfield>      <mx:subfield code="9">ess=hn</mx:subfield>    </mx:datafield>  <mx:datafield tag="673" ind2=" " ind1=" ">    <mx:subfield code="a">001.06/01</mx:subfield>    <mx:subfield code="9">ess=seg</mx:subfield>  </mx:datafield>  <mx:datafield tag="750" ind2="7" ind1=" ">    <mx:subfield code="a">UNESCO</mx:subfield>    <mx:subfield code="2">ddcri</mx:subfield>    <mx:subfield code="9">ps=PE</mx:subfield>  </mx:datafield>  <mx:datafield tag="750" ind2="7" ind1=" ">    <mx:subfield code="a">United Nations Educational, Scientific, and Cultural Organization</mx:subfield>    <mx:subfield code="2">ddcri</mx:subfield>    <mx:subfield code="9">ps=PE</mx:subfield>  </mx:datafield></mx:record>
+<mx:record>  <mx:leader>00000nw  a2200000n  4500</mx:leader>  <mx:controlfield tag="001">d0adafc4-10e7-3b8b-ac07-b6d5e68bdc01</mx:controlfield>  <mx:controlfield tag="003">DE-101</mx:controlfield>  <mx:controlfield tag="005">20051102111003.0</mx:controlfield>  <mx:controlfield tag="008">000202aaaaaabb</mx:controlfield>  <mx:datafield tag="035" ind2=" " ind1=" ">    <mx:subfield code="a">ocd00116631</mx:subfield>  </mx:datafield>  <mx:datafield tag="040" ind2=" " ind1=" ">    <mx:subfield code="a">OCoLC-D</mx:subfield>    <mx:subfield code="b">ger</mx:subfield>    <mx:subfield code="c">DE-101</mx:subfield>    <mx:subfield code="d">DE-101</mx:subfield>  </mx:datafield>  <mx:datafield tag="084" ind2=" " ind1="0">    <mx:subfield code="a">ddc</mx:subfield>    <mx:subfield code="c">23de</mx:subfield>    <mx:subfield code="e">ger</mx:subfield>  </mx:datafield>  <mx:datafield tag="153" ind2=" " ind1=" ">    <mx:subfield code="a">001.089</mx:subfield>    <mx:subfield code="e">001</mx:subfield>    <mx:subfield code="j">Wissen—Ethnologie</mx:subfield>    <mx:subfield code="9">ess=ien</mx:subfield>    <mx:subfield code="9">ess=peh</mx:subfield>  </mx:datafield><mx:datafield tag="765" ind2=" " ind1="0">      <mx:subfield code="b">001</mx:subfield>      <mx:subfield code="z">1</mx:subfield>      <mx:subfield code="s">089</mx:subfield>      <mx:subfield code="u">001.089</mx:subfield>      <mx:subfield code="9">ess=hn</mx:subfield>    </mx:datafield>  <mx:datafield tag="750" ind2="7" ind1=" ">    <mx:subfield code="a">Wissen</mx:subfield>    <mx:subfield code="x">Ethnologie</mx:subfield>    <mx:subfield code="2">ddcri</mx:subfield>    <mx:subfield code="9">ps=EO</mx:subfield>  </mx:datafield></mx:record>
+<mx:record>  <mx:leader>00000nw  a2200000n  4500</mx:leader>  <mx:controlfield tag="001">bfc7f52a-2bf0-366b-ae47-70a95c1ad8f9</mx:controlfield>  <mx:controlfield tag="003">DE-101</mx:controlfield>  <mx:controlfield tag="005">20051102111003.0</mx:controlfield>  <mx:controlfield tag="008">000202aaaaaabb</mx:controlfield>  <mx:datafield tag="035" ind2=" " ind1=" ">    <mx:subfield code="a">ocd00116632</mx:subfield>  </mx:datafield>  <mx:datafield tag="040" ind2=" " ind1=" ">    <mx:subfield code="a">OCoLC-D</mx:subfield>    <mx:subfield code="b">ger</mx:subfield>    <mx:subfield code="c">DE-101</mx:subfield>    <mx:subfield code="d">DE-101</mx:subfield>  </mx:datafield>  <mx:datafield tag="084" ind2=" " ind1="0">    <mx:subfield code="a">ddc</mx:subfield>    <mx:subfield code="c">23de</mx:subfield>    <mx:subfield code="e">ger</mx:subfield>  </mx:datafield>  <mx:datafield tag="153" ind2=" " ind1=" ">    <mx:subfield code="a">001.09</mx:subfield>    <mx:subfield code="e">001</mx:subfield>    <mx:subfield code="j">Geistesgeschichte</mx:subfield>    <mx:subfield code="9">ess=ien</mx:subfield>    <mx:subfield code="9">ess=peh</mx:subfield>  </mx:datafield><mx:datafield tag="765" ind2=" " ind1="0">      <mx:subfield code="b">001</mx:subfield>      <mx:subfield code="z">1</mx:subfield>      <mx:subfield code="s">09</mx:subfield>      <mx:subfield code="u">001.09</mx:subfield>      <mx:subfield code="9">ess=hn</mx:subfield>    </mx:datafield>  <mx:datafield tag="750" ind2="7" ind1=" ">    <mx:subfield code="a">Geistesgeschichte</mx:subfield>    <mx:subfield code="2">ddcri</mx:subfield>    <mx:subfield code="9">ps=PE</mx:subfield>  </mx:datafield>  <mx:datafield tag="750" ind2="7" ind1=" ">    <mx:subfield code="a">Ideengeschichte</mx:subfield>    <mx:subfield code="2">ddcri</mx:subfield>    <mx:subfield code="9">ps=PE</mx:subfield>  </mx:datafield></mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">61c1a8b7-d046-3caa-a502-3ac27a3bd643</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20051102111003.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116633</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.1</mx:subfield>
+    <mx:subfield code="e">001</mx:subfield>
+    <mx:subfield code="j">Geistiges Leben</mx:subfield>
+    <mx:subfield code="9">ess=en</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="680" ind2=" " ind1="1">
+    <mx:subfield code="i">Wesen und Wert</mx:subfield>
+    <mx:subfield code="9">ess=nsc</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="0">
+    <mx:subfield code="i">Für</mx:subfield>
+    <mx:subfield code="t">Wissenschaft und Gelehrsamkeit</mx:subfield>
+    <mx:subfield code="i">siehe</mx:subfield>
+    <mx:subfield code="a">001.2</mx:subfield>
+    <mx:subfield code="9">ess=nse</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="353" ind2=" " ind1=" ">
+    <mx:subfield code="i">Siehe auch</mx:subfield>
+    <mx:subfield code="a">900</mx:subfield>
+    <mx:subfield code="i">für breitgefächerte Darstellung von geistiger Lebenssituation und Bedingungen für geistige Arbeit</mx:subfield>
+    <mx:subfield code="9">ess=nsa</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Geistiges Leben</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">1db5dc13-5421-3385-809e-c674102626c0</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20140213105556.4</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116634</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.2</mx:subfield>
+    <mx:subfield code="e">001</mx:subfield>
+    <mx:subfield code="j">Wissenschaft und Gelehrsamkeit</mx:subfield>
+    <mx:subfield code="9">ess=en</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="680" ind2=" " ind1="1">
+    <mx:subfield code="i">Geistige Aktivität mit dem Ziel des Wissenszuwachses</mx:subfield>
+    <mx:subfield code="9">ess=ndf</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="2">
+    <mx:subfield code="i">Klassifiziere</mx:subfield>
+    <mx:subfield code="t">Lehr- und Lernmethoden</mx:subfield>
+    <mx:subfield code="i">in</mx:subfield>
+    <mx:subfield code="a">371.3</mx:subfield>
+    <mx:subfield code="9">ess=nce</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="2">
+    <mx:subfield code="i">Klassifiziere</mx:subfield>
+    <mx:subfield code="t">eine bestimmte Richtung von Wissenschaft und Gelehrsamkeit</mx:subfield>
+    <mx:subfield code="i">bei der Richtung, z.B.</mx:subfield>
+    <mx:subfield code="t">Wissenschaft in den Geisteswissenschaften</mx:subfield>
+    <mx:subfield code="e">001.3</mx:subfield>
+    <mx:subfield code="i">,</mx:subfield>
+    <mx:subfield code="t">in der Geschichte</mx:subfield>
+    <mx:subfield code="e">900</mx:subfield>
+    <mx:subfield code="9">ess=ncw</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="0">
+    <mx:subfield code="i">Für</mx:subfield>
+    <mx:subfield code="t">Forschung</mx:subfield>
+    <mx:subfield code="i">siehe</mx:subfield>
+    <mx:subfield code="a">001.4</mx:subfield>
+    <mx:subfield code="9">ess=nse</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="684" ind2=" " ind1="2">
+    <mx:subfield code="i">Siehe Praxishilfe bei</mx:subfield>
+    <mx:subfield code="a">500</mx:subfield>
+    <mx:subfield code="i">vs.</mx:subfield>
+    <mx:subfield code="a">001</mx:subfield>
+    <mx:subfield code="9">ess=nsm</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Gelehrtheit</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)07b6d21e-0a1d-40f1-aace-86bb4144e651</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Gelehrsamkeit</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)e53ca10a-3323-46cc-8b42-c7081a45810d</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Wissenschaft</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)c67a308d-34dc-49d1-af37-59c1327ad617</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">b0e7d0d3-f0ae-323f-98b2-fcd80465c758</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20110728112210.0</mx:controlfield>
+  <mx:controlfield tag="008">070329aaaaaabb</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116635</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.2092</mx:subfield>
+    <mx:subfield code="e">001.2</mx:subfield>
+    <mx:subfield code="j">Wissenschaftler, . . .</mx:subfield>
+    <mx:subfield code="9">ess=ien</mx:subfield>
+    <mx:subfield code="9">ess=peh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="765" ind2=" " ind1="0">
+    <mx:subfield code="b">001.2</mx:subfield>
+    <mx:subfield code="z">1</mx:subfield>
+    <mx:subfield code="s">092</mx:subfield>
+    <mx:subfield code="u">001.2092</mx:subfield>
+    <mx:subfield code="9">ess=hn</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Gelehrte</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=EO</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Wissenschaftler</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=EO</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">8aadf545-f542-3f95-b2fb-2e8526e1e8b2</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20130703125913.8</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116636</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.3</mx:subfield>
+    <mx:subfield code="e">001</mx:subfield>
+    <mx:subfield code="j">Geisteswissenschaften</mx:subfield>
+    <mx:subfield code="9">ess=en</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="680" ind2=" " ind1="0">
+    <mx:subfield code="i">Einschließlich:</mx:subfield>
+    <mx:subfield code="t">relativer Wert von Naturwissenschaft versus Geisteswissenschaften</mx:subfield>
+    <mx:subfield code="9">ess=nin</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="680" ind2=" " ind1="1">
+    <mx:subfield code="i">Hier auch:</mx:subfield>
+    <mx:subfield code="t">Regierungspolitik zu geisteswissenschaftlichen Themen</mx:subfield>
+    <mx:subfield code="9">ess=nch</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Geisteswissenschaften</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)b739d648-1762-4d33-9a04-ed4f1dc78110</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Humanwissenschaften</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)e88b47ab-64a2-47cf-b4b4-355e5cb42128</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Geisteswissenschaften (Regierungspolitisches Thema)</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)bb127b84-21bb-4400-b977-61b3040162c4</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>  <mx:leader>00000nw  a2200000n  4500</mx:leader>  <mx:controlfield tag="001">8f0f812d-7181-31af-b917-7abc06ad5ed5</mx:controlfield>  <mx:controlfield tag="003">DE-101</mx:controlfield>  <mx:controlfield tag="005">20050216131417.0</mx:controlfield>  <mx:controlfield tag="008">000202aaaaaabb</mx:controlfield>  <mx:datafield tag="035" ind2=" " ind1=" ">    <mx:subfield code="a">ocd00116637</mx:subfield>  </mx:datafield>  <mx:datafield tag="040" ind2=" " ind1=" ">    <mx:subfield code="a">OCoLC-D</mx:subfield>    <mx:subfield code="b">ger</mx:subfield>    <mx:subfield code="c">DE-101</mx:subfield>    <mx:subfield code="d">DE-101</mx:subfield>  </mx:datafield>  <mx:datafield tag="084" ind2=" " ind1="0">    <mx:subfield code="a">ddc</mx:subfield>    <mx:subfield code="c">23de</mx:subfield>    <mx:subfield code="e">ger</mx:subfield>  </mx:datafield>  <mx:datafield tag="153" ind2=" " ind1=" ">    <mx:subfield code="a">001.30973</mx:subfield>    <mx:subfield code="e">001.3</mx:subfield>    <mx:subfield code="j">National Endowment for the Humanities</mx:subfield>    <mx:subfield code="9">ess=ien</mx:subfield>    <mx:subfield code="9">ess=peh</mx:subfield>  </mx:datafield><mx:datafield tag="765" ind2=" " ind1="0">      <mx:subfield code="b">001.309</mx:subfield>      <mx:subfield code="z">2</mx:subfield>      <mx:subfield code="s">73</mx:subfield>      <mx:subfield code="u">001.30973</mx:subfield>      <mx:subfield code="9">ess=hn</mx:subfield>    </mx:datafield><mx:datafield tag="765" ind2=" " ind1="0">      <mx:subfield code="b">001.3</mx:subfield>      <mx:subfield code="z">1</mx:subfield>      <mx:subfield code="a">093</mx:subfield>      <mx:subfield code="c">099</mx:subfield>      <mx:subfield code="z">1</mx:subfield>      <mx:subfield code="s">09</mx:subfield>      <mx:subfield code="u">001.309</mx:subfield>      <mx:subfield code="9">ess=hn</mx:subfield>    </mx:datafield>  <mx:datafield tag="750" ind2="7" ind1=" ">    <mx:subfield code="a">National Endowment for the Humanities</mx:subfield>    <mx:subfield code="2">ddcri</mx:subfield>    <mx:subfield code="9">ps=EO</mx:subfield>  </mx:datafield></mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">84c998ec-0274-353b-a91d-b5088414edc7</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20140221155111.6</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116638</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.4</mx:subfield>
+    <mx:subfield code="e">001</mx:subfield>
+    <mx:subfield code="j">Forschung</mx:subfield>
+    <mx:subfield code="9">ess=en</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="680" ind2=" " ind1="1">
+    <mx:subfield code="i">Hier auch:</mx:subfield>
+    <mx:subfield code="t">Aktionsforschung, Evaluationsforschung, Werke über den Begriff der Forschung</mx:subfield>
+    <mx:subfield code="9">ess=nch</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="2">
+    <mx:subfield code="i">Klassifiziere</mx:subfield>
+    <mx:subfield code="t">Forschung in einem bestimmten Thema bei dem Thema,</mx:subfield>
+    <mx:subfield code="i">plus Notation</mx:subfield>
+    <mx:subfield code="z">1</mx:subfield>
+    <mx:subfield code="a">072</mx:subfield>
+    <mx:subfield code="i">aus Hilfstafel 1, z.B.</mx:subfield>
+    <mx:subfield code="t">Forschung in der Linguistik</mx:subfield>
+    <mx:subfield code="e">410.72</mx:subfield>
+    <mx:subfield code="9">ess=ncw</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="2">
+    <mx:subfield code="i">Klassifiziere</mx:subfield>
+    <mx:subfield code="t">Forschungsergebnisse der Forschung in einem bestimmten Thema bei dem Thema,</mx:subfield>
+    <mx:subfield code="i">ohne Notation</mx:subfield>
+    <mx:subfield code="z">1</mx:subfield>
+    <mx:subfield code="a">072</mx:subfield>
+    <mx:subfield code="i">aus Hilfstafel 1 anzuhängen, z.B.</mx:subfield>
+    <mx:subfield code="t">Forschungsergebnisse in der Linguistik</mx:subfield>
+    <mx:subfield code="e">410</mx:subfield>
+    <mx:subfield code="i">(nicht</mx:subfield>
+    <mx:subfield code="e">410.72</mx:subfield>
+    <mx:subfield code="i">)</mx:subfield>
+    <mx:subfield code="9">ess=ncw</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="684" ind2=" " ind1="2">
+    <mx:subfield code="i">Siehe Praxishilfe bei</mx:subfield>
+    <mx:subfield code="a">500</mx:subfield>
+    <mx:subfield code="i">vs.</mx:subfield>
+    <mx:subfield code="a">001</mx:subfield>
+    <mx:subfield code="9">ess=nsm</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Aktionsforschung</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)4488a1be-82cb-44bc-a120-633bec138902</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Anwendungsbezogene Forschung</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)fac1f905-517e-44bb-b856-cd6c98b0bb64</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Praxisnahe Forschung</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)58d9e2bb-41c2-4413-8059-93edb8a6226b</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Handlungsforschung</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)6b179a83-a1dd-46d4-8a79-4585375dbb37</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Action Research</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)f96ab57c-bec7-471f-8afe-5dec0aebf72f</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Evaluationsforschung</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)715d6c02-a7c8-4532-b851-990cfefc6ee7</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Begleitforschung</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)2df989c4-61ca-4c72-ad1c-faa380c1b402</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Untersuchung (Tatsachenfeststellung)</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)7df7e7fc-e63d-4a1c-beb9-9091ad98c836</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Faktenforschung</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)e6998b66-5e2c-4c18-ada8-9b40eabe0575</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Recherche (Forschung)</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)d5c2671e-73d2-4d5e-8e4b-f4afedfe3fa0</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Labors</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)b2e5e71d-e89c-474f-922b-c1dfa488a0a0</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=EO</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Forschung</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)791f29e1-09f7-45e2-89ac-b568690f8e6d</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Laboratorien</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)970c5d8a-29fd-4264-a225-b120d4f846c8</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Forschungsgebäude</mx:subfield>
+    <mx:subfield code="0">(OCoLC-D)d7686f46-68d7-4548-af72-15fc92e11ea7</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">08013d34-009c-3f0d-a394-981b2db400d3</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20050216131423.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaabb</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116639</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.40684</mx:subfield>
+    <mx:subfield code="e">001.4</mx:subfield>
+    <mx:subfield code="j">Forschung—Management</mx:subfield>
+    <mx:subfield code="9">ess=ien</mx:subfield>
+    <mx:subfield code="9">ess=peh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="765" ind2=" " ind1="0">
+    <mx:subfield code="b">001.4</mx:subfield>
+    <mx:subfield code="z">1</mx:subfield>
+    <mx:subfield code="s">0684</mx:subfield>
+    <mx:subfield code="u">001.40684</mx:subfield>
+    <mx:subfield code="9">ess=hn</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="673" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.4068/4</mx:subfield>
+    <mx:subfield code="9">ess=seg</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Forschung</mx:subfield>
+    <mx:subfield code="x">Management</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=EO</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">423d1e1e-6186-3fdc-b27b-df0124eb3b18</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20051102111003.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaabb</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116640</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.4092</mx:subfield>
+    <mx:subfield code="e">001.4</mx:subfield>
+    <mx:subfield code="j">Forscher</mx:subfield>
+    <mx:subfield code="9">ess=ien</mx:subfield>
+    <mx:subfield code="9">ess=peh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="765" ind2=" " ind1="0">
+    <mx:subfield code="b">001.4</mx:subfield>
+    <mx:subfield code="z">1</mx:subfield>
+    <mx:subfield code="s">092</mx:subfield>
+    <mx:subfield code="u">001.4092</mx:subfield>
+    <mx:subfield code="9">ess=hn</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Forscher</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">7f32abbb-58fa-3504-a3cc-80399d92d12c</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20121123150055.7</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116641</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.42</mx:subfield>
+    <mx:subfield code="e">001.4</mx:subfield>
+    <mx:subfield code="j">Forschungsmethoden</mx:subfield>
+    <mx:subfield code="9">ess=en</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="673" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.4/2</mx:subfield>
+    <mx:subfield code="9">ess=seg</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="680" ind2=" " ind1="1">
+    <mx:subfield code="i">Hier auch:</mx:subfield>
+    <mx:subfield code="t">qualitative Forschung, quantitative Forschung, wissenschaftliche Methodik</mx:subfield>
+    <mx:subfield code="9">ess=nch</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="2">
+    <mx:subfield code="i">Klassifiziere</mx:subfield>
+    <mx:subfield code="t">Operations Research</mx:subfield>
+    <mx:subfield code="i">in</mx:subfield>
+    <mx:subfield code="a">003</mx:subfield>
+    <mx:subfield code="9">ess=nce</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="2">
+    <mx:subfield code="i">Klassifiziere</mx:subfield>
+    <mx:subfield code="t">Computermodellierung und Computersimulation</mx:subfield>
+    <mx:subfield code="i">in</mx:subfield>
+    <mx:subfield code="a">003.3</mx:subfield>
+    <mx:subfield code="9">ess=nce</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="253" ind2=" " ind1="0">
+    <mx:subfield code="i">Für</mx:subfield>
+    <mx:subfield code="t">deskriptive und experimentelle Methoden</mx:subfield>
+    <mx:subfield code="i">siehe</mx:subfield>
+    <mx:subfield code="a">001.43</mx:subfield>
+    <mx:subfield code="9">ess=nse</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Qualitative Forschung</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Qualitative Methoden</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Quantitative Forschung</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Quantitative Methoden</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Forschungsmethoden</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Wissenschaftsmethodik</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Wissenschaftliche Methodik</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Naturwissenschaftliche Methodik</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=EO</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Wissenschaftliche Methoden</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Naturwissenschaftliche Methoden</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">fdc0f66b-9a83-3a80-adfe-e9e609bcc45c</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20110311133419.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaabb</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116642</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.4202854678</mx:subfield>
+    <mx:subfield code="e">001.42</mx:subfield>
+    <mx:subfield code="j">Forschung—Internet, . . .</mx:subfield>
+    <mx:subfield code="9">ess=ien</mx:subfield>
+    <mx:subfield code="9">ess=peh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="765" ind2=" " ind1="0">
+    <mx:subfield code="b">001.420285</mx:subfield>
+    <mx:subfield code="r">00</mx:subfield>
+    <mx:subfield code="s">4678</mx:subfield>
+    <mx:subfield code="u">001.4202854678</mx:subfield>
+    <mx:subfield code="9">ess=hn</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="765" ind2=" " ind1="0">
+    <mx:subfield code="b">001.42</mx:subfield>
+    <mx:subfield code="z">1</mx:subfield>
+    <mx:subfield code="s">0285</mx:subfield>
+    <mx:subfield code="u">001.420285</mx:subfield>
+    <mx:subfield code="9">ess=hn</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="673" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.4/202854678</mx:subfield>
+    <mx:subfield code="9">ess=seg</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Forschung</mx:subfield>
+    <mx:subfield code="x">Internet</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=EO</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Internetrecherche als Forschungsmethode</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=EO</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">0d516d3e-17f7-3d18-8b2d-5f5a13e0104f</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20121121175851.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116643</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.422</mx:subfield>
+    <mx:subfield code="e">001.42</mx:subfield>
+    <mx:subfield code="j">Statistische Methoden</mx:subfield>
+    <mx:subfield code="9">ess=en</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="673" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.4/22</mx:subfield>
+    <mx:subfield code="9">ess=seg</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="353" ind2=" " ind1=" ">
+    <mx:subfield code="i">Siehe auch</mx:subfield>
+    <mx:subfield code="a">310</mx:subfield>
+    <mx:subfield code="i">für Sammlungen allgemeiner statistischer Daten;</mx:subfield>
+    <mx:subfield code="9">ess=nsa</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="353" ind2=" " ind1=" ">
+    <mx:subfield code="i">siehe auch Notation</mx:subfield>
+    <mx:subfield code="z">1</mx:subfield>
+    <mx:subfield code="a">021</mx:subfield>
+    <mx:subfield code="i">aus Hilfstafel 1 für Statistiken zu einem bestimmten Thema</mx:subfield>
+    <mx:subfield code="9">ess=nsa</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="684" ind2=" " ind1="2">
+    <mx:subfield code="i">Siehe Praxishilfe bei</mx:subfield>
+    <mx:subfield code="a">519.5</mx:subfield>
+    <mx:subfield code="i">,</mx:subfield>
+    <mx:subfield code="z">1</mx:subfield>
+    <mx:subfield code="a">015195</mx:subfield>
+    <mx:subfield code="i">vs.</mx:subfield>
+    <mx:subfield code="a">001.422</mx:subfield>
+    <mx:subfield code="i">,</mx:subfield>
+    <mx:subfield code="z">1</mx:subfield>
+    <mx:subfield code="a">0727</mx:subfield>
+    <mx:subfield code="9">ess=nsm</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Statistische Methoden</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">3cb9fc11-f515-3181-9229-521a3f9b2a12</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20110815173715.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116647</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.4226</mx:subfield>
+    <mx:subfield code="e">001.422</mx:subfield>
+    <mx:subfield code="j">Darstellung statistischer Daten</mx:subfield>
+    <mx:subfield code="9">ess=en</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="673" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.4/226</mx:subfield>
+    <mx:subfield code="9">ess=seg</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="680" ind2=" " ind1="1">
+    <mx:subfield code="i">Hier auch:</mx:subfield>
+    <mx:subfield code="t">grafische Darstellung</mx:subfield>
+    <mx:subfield code="9">ess=nch</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Statistische Schaubilder</mx:subfield>
+    <mx:subfield code="x">Darstellung statistischer Daten</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Statistische Diagramme</mx:subfield>
+    <mx:subfield code="x">Darstellung statistischer Daten</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Statistische Grafiken</mx:subfield>
+    <mx:subfield code="x">Darstellung statistischer Daten</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="750" ind2="7" ind1=" ">
+    <mx:subfield code="a">Statistiken</mx:subfield>
+    <mx:subfield code="x">Darstellung statistischer Daten</mx:subfield>
+    <mx:subfield code="2">ddcri</mx:subfield>
+    <mx:subfield code="9">ps=PE</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>  <mx:leader>00000nw  a2200000n  4500</mx:leader>  <mx:controlfield tag="001">6bbb3b5f-ace1-337e-93d0-1cc4c2f66bf7</mx:controlfield>  <mx:controlfield tag="003">DE-101</mx:controlfield>  <mx:controlfield tag="005">20110815173830.0</mx:controlfield>  <mx:controlfield tag="008">000202aaaaaabb</mx:controlfield>  <mx:datafield tag="035" ind2=" " ind1=" ">    <mx:subfield code="a">ocd00116648</mx:subfield>  </mx:datafield>  <mx:datafield tag="040" ind2=" " ind1=" ">    <mx:subfield code="a">OCoLC-D</mx:subfield>    <mx:subfield code="b">ger</mx:subfield>    <mx:subfield code="c">DE-101</mx:subfield>    <mx:subfield code="d">DE-101</mx:subfield>  </mx:datafield>  <mx:datafield tag="084" ind2=" " ind1="0">    <mx:subfield code="a">ddc</mx:subfield>    <mx:subfield code="c">23de</mx:subfield>    <mx:subfield code="e">ger</mx:subfield>  </mx:datafield>  <mx:datafield tag="153" ind2=" " ind1=" ">    <mx:subfield code="a">001.4226028566</mx:subfield>    <mx:subfield code="e">001.4226</mx:subfield>    <mx:subfield code="j">Statistische Grafiken—Darstellung statistischer Daten—Computergrafiken, . . .</mx:subfield>    <mx:subfield code="9">ess=ien</mx:subfield>    <mx:subfield code="9">ess=peh</mx:subfield>  </mx:datafield><mx:datafield tag="765" ind2=" " ind1="0">      <mx:subfield code="b">001.42260285</mx:subfield>      <mx:subfield code="r">00</mx:subfield>      <mx:subfield code="s">66</mx:subfield>      <mx:subfield code="u">001.4226028566</mx:subfield>      <mx:subfield code="9">ess=hn</mx:subfield>    </mx:datafield><mx:datafield tag="765" ind2=" " ind1="0">      <mx:subfield code="b">001.4226</mx:subfield>      <mx:subfield code="z">1</mx:subfield>      <mx:subfield code="s">0285</mx:subfield>      <mx:subfield code="u">001.42260285</mx:subfield>      <mx:subfield code="9">ess=hn</mx:subfield>    </mx:datafield>  <mx:datafield tag="673" ind2=" " ind1=" ">    <mx:subfield code="a">001.4/226028566</mx:subfield>    <mx:subfield code="9">ess=seg</mx:subfield>  </mx:datafield>  <mx:datafield tag="750" ind2="7" ind1=" ">    <mx:subfield code="a">Statistische Schaubilder</mx:subfield>    <mx:subfield code="x">Darstellung statistischer Daten</mx:subfield>    <mx:subfield code="x">Computergrafiken</mx:subfield>    <mx:subfield code="2">ddcri</mx:subfield>    <mx:subfield code="9">ps=PE</mx:subfield>  </mx:datafield>  <mx:datafield tag="750" ind2="7" ind1=" ">    <mx:subfield code="a">Statistische Diagramme</mx:subfield>    <mx:subfield code="x">Darstellung statistischer Daten</mx:subfield>    <mx:subfield code="x">Computergrafiken</mx:subfield>    <mx:subfield code="2">ddcri</mx:subfield>    <mx:subfield code="9">ps=PE</mx:subfield>  </mx:datafield>  <mx:datafield tag="750" ind2="7" ind1=" ">    <mx:subfield code="a">Statistische Grafiken</mx:subfield>    <mx:subfield code="x">Darstellung statistischer Daten</mx:subfield>    <mx:subfield code="x">Computergrafiken</mx:subfield>    <mx:subfield code="2">ddcri</mx:subfield>    <mx:subfield code="9">ps=PE</mx:subfield>  </mx:datafield>  <mx:datafield tag="750" ind2="7" ind1=" ">    <mx:subfield code="a">Statistiken</mx:subfield>    <mx:subfield code="x">Darstellung statistischer Daten</mx:subfield>    <mx:subfield code="x">Computergrafiken</mx:subfield>    <mx:subfield code="2">ddcri</mx:subfield>    <mx:subfield code="9">ps=PE</mx:subfield>  </mx:datafield></mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">2938e704-395b-327f-bf93-6c94a3d4ed32</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20110815165721.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaaaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116649</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.43</mx:subfield>
+    <mx:subfield code="e">001.4</mx:subfield>
+    <mx:subfield code="j">Deskriptive und experimentelle Methoden</mx:subfield>
+    <mx:subfield code="9">ess=en</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="673" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.4/3</mx:subfield>
+    <mx:subfield code="9">ess=seg</mx:subfield>
+  </mx:datafield>
+</mx:record>
+<mx:record>
+  <mx:leader>00000nw  a2200000n  4500</mx:leader>
+  <mx:controlfield tag="001">65739710-be0a-3ac5-a60e-1066b8db4e04</mx:controlfield>
+  <mx:controlfield tag="003">DE-101</mx:controlfield>
+  <mx:controlfield tag="005">20110815170611.0</mx:controlfield>
+  <mx:controlfield tag="008">000202aaeaaaaa</mx:controlfield>
+  <mx:datafield tag="035" ind2=" " ind1=" ">
+    <mx:subfield code="a">ocd00116650</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind2=" " ind1=" ">
+    <mx:subfield code="a">OCoLC-D</mx:subfield>
+    <mx:subfield code="b">ger</mx:subfield>
+    <mx:subfield code="c">DE-101</mx:subfield>
+    <mx:subfield code="d">DE-101</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="084" ind2=" " ind1="0">
+    <mx:subfield code="a">ddc</mx:subfield>
+    <mx:subfield code="c">23de</mx:subfield>
+    <mx:subfield code="e">ger</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="153" ind2=" " ind1=" ">
+    <mx:subfield code="a">001.432</mx:subfield>
+    <mx:subfield code="e">001.43</mx:subfield>
+    <mx:subfield code="j">Historische Forschung</mx:subfield>
+    <mx:subfield code="9">ess=en</mx:subfield>
+    <mx:subfield code="9">ess=eh</mx:subfield>
+  </mx:datafield>
+</mx:record>
+</mx:collection>
+  
